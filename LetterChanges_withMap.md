@@ -18,10 +18,8 @@ function LetterChanges(str) {
 
 ### For Example:
 
-LetterChanges(""hello*3")
-
-*returns* -->
->>>"Ifmmp*3"
+`LetterChanges( "Travis Gorman!");`
+>>>Usbwjt HpsnbO!"
 
 ___
 
