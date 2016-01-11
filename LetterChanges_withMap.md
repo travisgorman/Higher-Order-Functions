@@ -1,4 +1,5 @@
 # `LetterChanges()` with `map()`
+This is my solution to `LetterChanges()` from Coderbytes.com
 
 ```js
 function LetterChanges(str) {
@@ -19,7 +20,7 @@ function LetterChanges(str) {
 ### For Example:
 
 `LetterChanges( "Travis Gorman!");`
->>>Usbwjt HpsnbO!"
+>>>"Usbwjt HpsnbO!"
 
 ___
 
