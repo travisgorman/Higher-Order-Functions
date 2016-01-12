@@ -1,5 +1,4 @@
 # `LetterChanges()` with `map()`
-This is my solution to `LetterChanges()` from Coderbytes.com
 
 ```js
 function LetterChanges(str) {
@@ -19,8 +18,8 @@ function LetterChanges(str) {
 
 ### For Example:
 
-`LetterChanges( "Travis Gorman!");`
->>>"Usbwjt HpsnbO!"
+LetterChanges( "Travis Gorman!");
+>>>Usbwjt HpsnbO!"
 
 ___
 
@@ -36,6 +35,8 @@ ___
     + if `c` is any of item in this array of vowels,
     + call toUpperCase() on it.
 * join() to turn the array created by map() into a string. 
+
+___
 
 The function contains a return statement, with 3 method calls: `split`, `map`, and `join`.  
 
